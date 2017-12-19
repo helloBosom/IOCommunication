@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>groupId</groupId>
+    <artifactId>sinosoft</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>AIO</module>
+        <module>BIO</module>
+        <module>Ftp</module>
+        <module>marshalling</module>
+        <module>Netty</module>
+        <module>Netty-File</module>
+        <module>Netty-FileDownload</module>
+        <module>Netty-Http</module>
+        <module>Netty-Serializable</module>
+        <module>Netty-WebSocket</module>
+        <module>NettyProtocolStack</module>
+        <module>NIO</module>
+        <module>Protobuf</module>
+        <module>UDP</module>
+    </modules>
+
+
+</project>

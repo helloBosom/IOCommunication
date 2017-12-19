@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AIO" />
+        <module name="BIO" />
+        <module name="com.lv" />
+        <module name="day0713" />
+        <module name="Ftp" />
+        <module name="marshalling" />
+        <module name="Netty-File" />
+        <module name="Netty-File (1)" />
+        <module name="Netty-Http" />
+        <module name="Netty-Serializable" />
+        <module name="Netty-WebSocket" />
+        <module name="NettyProtocloStack" />
+        <module name="NettyProtocolStack" />
+        <module name="NIO" />
+        <module name="NIO (1)" />
+        <module name="Protobuf" />
+        <module name="sinosoft" />
+        <module name="UDP" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AIO" target="1.5" />
+      <module name="BIO" target="1.5" />
+      <module name="com.lv" target="1.5" />
+      <module name="day0713" target="1.5" />
+      <module name="Ftp" target="1.5" />
+      <module name="marshalling" target="1.5" />
+      <module name="Netty-File" target="1.5" />
+      <module name="Netty-File (1)" target="1.5" />
+      <module name="Netty-Http" target="1.5" />
+      <module name="Netty-Serializable" target="1.5" />
+      <module name="Netty-WebSocket" target="1.5" />
+      <module name="NettyProtocloStack" target="1.5" />
+      <module name="NettyProtocolStack" target="1.5" />
+      <module name="NIO" target="1.5" />
+      <module name="NIO (1)" target="1.5" />
+      <module name="Protobuf" target="1.5" />
+      <module name="sinosoft" target="1.5" />
+      <module name="UDP" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

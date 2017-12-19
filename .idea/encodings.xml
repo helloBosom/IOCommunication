@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AIO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BIO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NIO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Netty-File" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Netty-FileDownload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Netty-Http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Netty-Serializable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Netty-WebSocket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NettyProtocolStack" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Protobuf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UDP" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/marshalling" charset="UTF-8" />
+  </component>
+</project>

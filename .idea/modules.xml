@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIO/AIO.iml" filepath="$PROJECT_DIR$/AIO/AIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BIO/BIO.iml" filepath="$PROJECT_DIR$/BIO/BIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ftp/Ftp.iml" filepath="$PROJECT_DIR$/Ftp/Ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/NIO (1).iml" filepath="$PROJECT_DIR$/NIO/NIO (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty/Netty.iml" filepath="$PROJECT_DIR$/Netty/Netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-File/Netty-File.iml" filepath="$PROJECT_DIR$/Netty-File/Netty-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-FileDownload/Netty-FileDownload.iml" filepath="$PROJECT_DIR$/Netty-FileDownload/Netty-FileDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-Http/Netty-Http.iml" filepath="$PROJECT_DIR$/Netty-Http/Netty-Http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-Serializable/Netty-Serializable.iml" filepath="$PROJECT_DIR$/Netty-Serializable/Netty-Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty-WebSocket/Netty-WebSocket.iml" filepath="$PROJECT_DIR$/Netty-WebSocket/Netty-WebSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyProtocolStack/NettyProtocolStack.iml" filepath="$PROJECT_DIR$/NettyProtocolStack/NettyProtocolStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Protobuf/Protobuf.iml" filepath="$PROJECT_DIR$/Protobuf/Protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDP/UDP.iml" filepath="$PROJECT_DIR$/UDP/UDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marshalling/marshalling.iml" filepath="$PROJECT_DIR$/marshalling/marshalling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sinosoft.iml" filepath="$PROJECT_DIR$/.idea/sinosoft.iml" />
+    </modules>
+  </component>
+</project>

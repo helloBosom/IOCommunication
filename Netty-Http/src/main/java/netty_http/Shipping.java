@@ -1,0 +1,5 @@
+package netty_http;
+
+public enum Shipping {
+	STANDARD_MALL, PRIORITY_MALL, INTERNATION_MALL, DEMESTIC_EXPRESS, INTERNATION_EXPRESS
+}
